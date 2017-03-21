@@ -1,0 +1,137 @@
+SUCCESS: Read 15 points from points_tmp.txt
+INFO: Starts Fortune's algorithm...
+INFO: Clearing allocated memory...
+SUCCESS: Memory freed
+SUCCESS: Events created
+INFO: Starts iteration through events...
+INFO: Iteration #1
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #2
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #3
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #4
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #5
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #6
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #7
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #8
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #9
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #10
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #11
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #12
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #13
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Skipping iteration #14 (deleted event)
+INFO: Iteration #15
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #16
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Skipping iteration #17 (deleted event)
+INFO: Iteration #18
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #19
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #20
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Skipping iteration #21 (deleted event)
+INFO: Iteration #22
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #23
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Skipping iteration #24 (deleted event)
+INFO: Iteration #25
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #26
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #27
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #28
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #29
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #30
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #31
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #32
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Skipping iteration #33 (deleted event)
+INFO: Iteration #34
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #35
+INFO: Inserting parabola
+SUCCESS: Parabola inserted
+INFO: Iteration #36
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #37
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Skipping iteration #38 (deleted event)
+INFO: Iteration #39
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #40
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #41
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Skipping iteration #42 (deleted event)
+INFO: Skipping iteration #43 (deleted event)
+INFO: Skipping iteration #44 (deleted event)
+INFO: Skipping iteration #45 (deleted event)
+INFO: Skipping iteration #46 (deleted event)
+INFO: Skipping iteration #47 (deleted event)
+INFO: Skipping iteration #48 (deleted event)
+INFO: Iteration #49
+INFO: Removing parabola
+SUCCESS: Parabola removed
+INFO: Iteration #50
+INFO: Removing parabola
+SUCCESS: Parabola removed
+SUCCESS: Done #iterations = 50
+INFO: Finishing edges...
+SUCCESS: Finishing edges completed
+SUCCESS: Finished Fortune's algorithm
+SUCCESS: Solution written in diagram_tmp.txt
+INFO: Clearing allocated memory...
+SUCCESS: Memory freed
